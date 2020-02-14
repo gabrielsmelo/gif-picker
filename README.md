@@ -1,15 +1,14 @@
-# gif_picker
+# GIPHY Gif Picker
 
-A new Flutter project.
+A Gif Picker made with Flutter. With this app you can search for GIFs and share them with anyone you want. It was made for learning **Dart** + **Flutter**.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+-- gifs here
 
-A few resources to get you started if this is your first Flutter project:
+## Running in your machine
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You need to have Flutter and then just clone the repo, open the app and Run it with an emulator or real device connected.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
